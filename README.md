@@ -4,4 +4,4 @@ In Day 2 of Dr. Angela Yu's Python Bootcamp, I learnt all about:
   Mathematical Operations &
   Number Manipulation.
 
-Link to Bootcamp: 100daysofpython.dev
+Link to Bootcamp: https://www.100daysofpython.dev/
